@@ -40,7 +40,7 @@ Automated invoice tracking and improved reconciliation at SHI International.
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,html,ai,py,r,github" />
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,html,py,r,github" />
   </a>
 </p>
 
