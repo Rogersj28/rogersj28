@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/jason-rogers-8141a5168">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
 </div>
 
 <h3 align="center"> 💻 Projects</h3> 
@@ -47,7 +47,7 @@ Automated invoice tracking and improved reconciliation at SHI International.
 **Analytics**: Power BI, Forecasting, Data Wrangling  
 **Systems**: D365, SAP, ServiceNow, DevOps 
 
-<br/>
+<br/><br/><br/>
 <hr/>
 
 <div align="center">
@@ -56,4 +56,9 @@ Automated invoice tracking and improved reconciliation at SHI International.
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rogersj28/rogersj28/output/github-contribution-grid-snake.svg" />
 </div>
 
-  <br/><br/><br/>
+  <br/>
+<h2 align="center"> 🧮 Stats </h2>
+<div align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Rogersj28&theme=vue-dark&border_radius=5" alt="GitHub Streak" />
+</a>
