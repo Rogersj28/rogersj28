@@ -1,7 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Notable&weight=600&size=35&pause=4000&background=FFFFFF00&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BE;I'm+Jason+Rogers" alt="Typing SVG" />
-  </h1>
+  </a>
+</h1>
 
 <h3 align="center"> 👨🏾‍💻 About Me</h3>
 
