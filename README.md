@@ -51,4 +51,8 @@ Automated invoice tracking and improved reconciliation at SHI International.
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=Rogersj28&theme=vue-dark&border_radius=5" alt="GitHub Streak" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogersj28&layout=donut&theme=vue-dark" alt="Top Languages" />
+</a>
+
 </a>
