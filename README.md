@@ -48,17 +48,9 @@ Automated invoice tracking and improved reconciliation at SHI International.
 **Analytics**: Power BI, Forecasting, Data Wrangling  
 **Systems**: D365, SAP, ServiceNow, DevOps 
 
-<br/><br/><br/>
-<hr/>
-
 <div align="center">
-  <h2> 📈 My Contributions 📈 </h2>
-  <br>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rogersj28/rogersj28/output/github-contribution-grid-snake.svg" />
 </div>
-
-  <br/>
-<h2 align="center"> 🧮 Stats 🧮 </h2>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=Rogersj28&theme=vue-dark&border_radius=5" alt="GitHub Streak" />
