@@ -35,12 +35,9 @@ Interactive dashboard using R Shiny to explore insurance claims by demographics 
 Automated invoice tracking and improved reconciliation at SHI International.  
 *Tools: Power BI, Excel, Business Analytics*
 
-<h3 align="center"> 🛠️ Skills & Tools</h3> 
-
-<br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,html,py,r,github" />
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,html,py,r,github,htmx" />
   </a>
 </p>
 
