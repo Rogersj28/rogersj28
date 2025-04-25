@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center"> 👨🏾‍💻 About Me</h3>
+<h3 align="center"> 👨🏾‍💻 About Me 👨🏾‍💻</h3>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<h3 align="center"> 💻 Projects</h3> 
+<h3 align="center"> 💻 Projects 💻</h3> 
 
 #### 📊 Insurance Claims Dashboard – R Shiny
 Interactive dashboard using R Shiny to explore insurance claims by demographics and claim types.  
@@ -52,13 +52,13 @@ Automated invoice tracking and improved reconciliation at SHI International.
 <hr/>
 
 <div align="center">
-  <h2> 📈 My Contributions </h2>
+  <h2> 📈 My Contributions 📈 </h2>
   <br>
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rogersj28/rogersj28/output/github-contribution-grid-snake.svg" />
 </div>
 
   <br/>
-<h2 align="center"> 🧮 Stats </h2>
+<h2 align="center"> 🧮 Stats 🧮 </h2>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=Rogersj28&theme=vue-dark&border_radius=5" alt="GitHub Streak" />
