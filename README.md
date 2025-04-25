@@ -1,55 +1,59 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rogersj28.rogersj28" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;I'm+Jason+Rogers;" />
-</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Notable&weight=600&size=35&pause=4000&background=FFFFFF00&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BE;I'm+Jason+Rogers" alt="Typing SVG" />
+  </h1>
 
-MBA Candidate in Applied Business Analytics at William Paterson University (_May 2025_)  
-Functional Analyst at Omnicom  
-Based in New Jersey | Open to AI, Data Analyst, and Business Intelligence roles  
+<h3 align="center"> 👨🏾‍💻 About Me</h3>
 
-___
-## About Me
+<br/>
 
-I'm a results-driven Functional & Business Analyst with 3+ years of experience enhancing operational efficiency through data-driven solutions. I specialize in system optimization (D365, SAP), workflow automation, and business reporting. Currently, I'm expanding my technical toolkit to transition into a role as an **AI Analyst**, with the long-term goal of becoming a **Data Scientist**.
+<div align="center">
+🎓 MBA Candidate - Business Analytics |  💼 Functional Analyst 
+<br> 📍 New Jersey | 💡 Aspiring AI / Data Scientist 
+  
+</div>
+<br/>
 
-I’m passionate about turning data into insights and helping businesses make smarter, faster decisions.
+<div align="center">
+  <a href="mailto:jasonrogers2398@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/jason-rogers-8141a5168">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+</div>
 
-___
-## Technical Skills
-- **Languages & Tools:** Python, R, SQL, Power BI, RStudio, Jupyter Notebooks  
-- **Analytics & Data:** Data Wrangling, Data Modeling, Forecasting, Machine Learning (in progress)  
-- **Platforms & Systems:** Microsoft Dynamics 365 (D365), SAP ERP, DevOps, ServiceNow  
-- **Productivity:** Excel (Advanced), GitHub, Anaconda, Spyder, SharePoint, Microsoft Teams
+<h3 align="center"> 💻 Projects</h3> 
 
-___
-## Featured Projects
-### [Insurance Claims Analytics Dashboard – R Shiny]
-Interactive R Shiny dashboard that segments and analyzes insurance claim data.  
-- Dynamic filtering by demographic and claim features  
-- Multiple visualizations: Pie, Bar, Histogram, Violin  
-- Built using `shiny`, `ggplot2`, `dplyr`, and `DT`
+#### 📊 Insurance Claims Dashboard – R Shiny
+Interactive dashboard using R Shiny to explore insurance claims by demographics and claim types.  
+*Tools: R, ggplot2, dplyr, DT, Shiny*
 
-> *Skills used:* R, R Shiny, Data Wrangling, Data Visualization
+#### 📈 Power BI Dashboard – Accounts Payable *(Internal)*  
+Automated invoice tracking and improved reconciliation at SHI International.  
+*Tools: Power BI, Excel, Business Analytics*
 
-___
-### Power BI Dashboard – Accounts Payable Automation *(Internal Project)*
-Developed at SHI International to modernize AP reporting.  
-- Migrated Excel reports to Power BI for automated data refresh  
-- Tracked KPIs and reduced manual reconciliation time by 30%  
-- Improved invoice accuracy by 15%
+<h3 align="center"> 🛠️ Skills & Tools</h3> 
 
-> *Note: This dashboard was built on a secure system and is not available for public sharing.*
-> *Skills used:* Power BI, Excel Automation, Business Analytics
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,html,ai,py,r,github" />
+  </a>
+</p>
 
-___
-## What I’m Working On
-- Building out more portfolio projects using **Python (Pandas, Matplotlib, Scikit-learn)**  
-- Expanding machine learning skills with AI-focused coursework  
-- Creating a **public Power BI dashboard** using open data  
+**Languages**: Python, R, SQL  
+**Analytics**: Power BI, Forecasting, Data Wrangling  
+**Systems**: D365, SAP, ServiceNow, DevOps 
 
----
-## Let's Connect
-- **LinkedIn**: [linkedin.com/in/Jason Rogers](https://linkedin.com/in/jason-rogers-8141a5168) 
-- **GitHub**: [github.com/Rogersj28](https://github.com/Rogersj28)
+<br/>
+<hr/>
+
+<div align="center">
+  <h2> 📈 My Contributions </h2>
+  <br>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rogersj28/rogersj28/output/github-contribution-grid-snake.svg" />
+</div>
+
+  <br/><br/><br/>
